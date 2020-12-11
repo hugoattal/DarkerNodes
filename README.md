@@ -7,7 +7,7 @@ Modern theme for the Unreal editor
 
 **Darker Nodes** can be bought from the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/en-US/slug/darker-nodes). Once you buy it, it will be automatically downloaded with compatible engine version.
 
-You can find answers for frequently questions on the wiki: [FAQ](https://github.com/TheHerobrine/DarkerNodes/wiki/FAQ)
+You can find answers for frequently questions on the wiki: [FAQ](https://github.com/TheHerobrine/DarkerNodes/wiki/FAQ) or [Getting started](https://github.com/TheHerobrine/DarkerNodes/wiki/Getting-started)
 
 ## Compatible Engine Version
 
