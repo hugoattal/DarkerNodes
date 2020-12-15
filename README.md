@@ -20,12 +20,12 @@ UE 4.26 | DN 1.1 | ✅
 
 **Version 1.1**
 > - Bugfixes:
->   - Fix theme images not displaying https://github.com/TheHerobrine/DarkerNodes/issues/7
->   - Fix black text on dark textfields https://github.com/TheHerobrine/DarkerNodes/issues/3
->   - Fix white textfields in Niagara https://github.com/TheHerobrine/DarkerNodes/issues/9
->   - Add missing PIE icon https://github.com/TheHerobrine/DarkerNodes/issues/11
->   - Fix tab overlap https://github.com/TheHerobrine/DarkerNodes/issues/10
->   - Fix blueprint white comment bubble https://github.com/TheHerobrine/DarkerNodes/issues/8
+>   - Fix theme images not displaying ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/7))
+>   - Fix black text on dark textfields ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/3))
+>   - Fix white textfields in Niagara ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/9))
+>   - Add missing PIE icon ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/11))
+>   - Fix tab overlap ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/10))
+>   - Fix blueprint white comment bubble ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/8))
 
 **Version 1.0**
 > - Features:
