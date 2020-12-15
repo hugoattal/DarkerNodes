@@ -13,10 +13,19 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.25 | DN 1.0 | ✅
-UE 4.26 | DN 1.0 | ✅
+UE 4.25 | DN 1.1 | ✅
+UE 4.26 | DN 1.1 | ✅
 
 ## Changelog
+
+**Version 1.1**
+> - Bugfixes:
+>   - Fix theme images not displaying https://github.com/TheHerobrine/DarkerNodes/issues/7
+>   - Fix black text on dark textfields https://github.com/TheHerobrine/DarkerNodes/issues/3
+>   - Fix white textfields in Niagara https://github.com/TheHerobrine/DarkerNodes/issues/9
+>   - Add missing PIE icon https://github.com/TheHerobrine/DarkerNodes/issues/11
+>   - Fix tab overlap https://github.com/TheHerobrine/DarkerNodes/issues/10
+>   - Fix blueprint white comment bubble https://github.com/TheHerobrine/DarkerNodes/issues/8
 
 **Version 1.0**
 > - Features:
@@ -24,3 +33,5 @@ UE 4.26 | DN 1.0 | ✅
 >   - 3 temperature levels (cool, normal, warm)
 >   - 3 primary color (orange, cyan, white)
 >   - Ability to disable new icons
+>   - Ability to disable blueprint grid
+>   - Customize the colors of the theme (background, primary, text)
