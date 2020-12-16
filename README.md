@@ -14,9 +14,13 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
 UE 4.25 | DN 1.1 | ✅
-UE 4.26 | DN 1.1 | ✅
+UE 4.26 | DN 1.2 | ✅
 
 ## Changelog
+
+**Version 1.2**
+> - Bugfixes:
+>   - Fix blocking compilation error ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/21))
 
 **Version 1.1**
 > - Bugfixes:
