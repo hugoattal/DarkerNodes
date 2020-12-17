@@ -13,10 +13,22 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.25 | DN 1.1 | ✅
-UE 4.26 | DN 1.2 | ✅
+UE 4.25 | DN 1.3 | ✅
+UE 4.26 | DN 1.3 | ✅
 
 ## Changelog
+
+**Version 1.3**
+> - Features:
+>   - Add variation of VarNodes ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/14))
+>   - Add option to keep old blueprint design ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/12))
+>   - Add option to change paddings ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/5))
+>   - Add more primary colors (red, purple and green) ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/15))
+> - Bugfixes:
+>   - Add missing simulation icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/24))
+>   - Fix packaging error ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/25))
+>   - Fix black buttons on timeline editor ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/27))
+>   - Fix black text on session frontend profiler ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/28))
 
 **Version 1.2**
 > - Bugfixes:
