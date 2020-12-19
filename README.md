@@ -13,10 +13,23 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.25 | DN 1.3 | ✅
-UE 4.26 | DN 1.3 | ✅
+UE 4.25 | DN 1.4 | ✅
+UE 4.26 | DN 1.4 | ✅
 
 ## Changelog
+
+**Version 1.4**
+> - Features:
+>   - Add warmer and cooler variation ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/37))
+>   - Make blueprint selection primary color ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/36))
+>   - Add setting to disable origin axis on BP ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/32))
+>   - Expose button colors ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/31))
+>   - Add small version of icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/4))
+> - Bugfixes:
+>   - Fix dark text on edition ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/35))
+>   - Fix dark niagara buttons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/34))
+>   - Fix some dark icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/33))
+>   - Fix some squeezed icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/30))
 
 **Version 1.3**
 > - Features:
