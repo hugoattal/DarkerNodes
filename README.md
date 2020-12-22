@@ -13,10 +13,15 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.25 | DN 1.4 | ✅
-UE 4.26 | DN 1.4 | ✅
+UE 4.25 | DN 1.5 | ✅
+UE 4.26 | DN 1.5 | ✅
 
 ## Changelog
+
+**Version 1.5**
+> - Bugfixes:
+>   - Fix the white curve editors ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/38))
+>   - Fix the customized colors update ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/39))
 
 **Version 1.4**
 > - Features:
