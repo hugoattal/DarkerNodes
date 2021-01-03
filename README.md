@@ -13,10 +13,20 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.25 | DN 1.5 | ✅
-UE 4.26 | DN 1.5 | ✅
+UE 4.24 | DN 1.6 | ✅
+UE 4.25 | DN 1.6 | ✅
+UE 4.26 | DN 1.6 | ✅
 
 ## Changelog
+
+**Version 1.6**
+> - Features:
+>   - Add 4.24 compatibility ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/56))
+>   - Add dark scrollbar ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/50))
+>   - Add 27 new icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/43))
+>   - Add 77 new small icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/41))
+> - Bugfixes:
+>   - Fix the white statistics panels ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/52))
 
 **Version 1.5**
 > - Bugfixes:
