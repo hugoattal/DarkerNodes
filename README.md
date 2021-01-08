@@ -19,6 +19,23 @@ UE 4.26 | DN 1.6 | ✅
 
 ## Changelog
 
+**Version 2.0*
+> - Features:
+>   - Make live update for the theme ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/23))
+>   - Add ability to change the button radius ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/68))
+>   - Add ability to change the button colors ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/66))
+>   - Make world outliner GreyBase ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/64))
+>   - Update the tab so that it match the content color ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/51))
+>   - Update several other things (such as blueprint customization)
+>   - Rework the complete system to push the customization further
+> - Bugfixes:
+>   - Fix white background on BP comments ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/65))
+>   - Fix white outlines when zoom on BP ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/63))
+>   - Fix unreadable text on selection ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/61))
+>   - Fix stretched icons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/60))
+>   - Fix white background on keyboard shortcuts ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/58))
+>   - Fix loading on certain sepecific cases ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/53))
+
 **Version 1.6**
 > - Features:
 >   - Add 4.24 compatibility ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/56))
