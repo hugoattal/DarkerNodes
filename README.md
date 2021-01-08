@@ -19,7 +19,7 @@ UE 4.26 | DN 1.6 | ✅
 
 ## Changelog
 
-**Version 2.0*
+**Version 2.0**
 > - Features:
 >   - Make live update for the theme ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/23))
 >   - Add ability to change the button radius ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/68))
