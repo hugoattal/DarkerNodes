@@ -13,11 +13,15 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.24 | DN 2.0| ✅
-UE 4.25 | DN 2.0 | ✅
-UE 4.26 | DN 2.0 | ✅
+UE 4.24 | DN 2.1 | ✅
+UE 4.25 | DN 2.1 | ✅
+UE 4.26 | DN 2.1  | ✅
 
 ## Changelog
+
+**Version 2.2**
+> - Bugfixes:
+>   - Fix crash and missing downloaded files ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/73))
 
 **Version 2.1**
 > - Bugfixes:
