@@ -13,9 +13,9 @@ You can find answers for frequently questions on the wiki: [FAQ](https://github.
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.24 | DN 2.1 | ✅
-UE 4.25 | DN 2.1 | ✅
-UE 4.26 | DN 2.1  | ✅
+UE 4.24 | DN 2.2 | ✅
+UE 4.25 | DN 2.2 | ✅
+UE 4.26 | DN 2.2 | ✅
 
 ## Changelog
 
