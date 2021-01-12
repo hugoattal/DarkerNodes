@@ -19,6 +19,18 @@ UE 4.26 | DN 2.2 | ✅
 
 ## Changelog
 
+**Version 2.3**
+> - Features:
+>   - Add grey change to blueprint tableview ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/86))
+>   - Make the collapse triangle more visible ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/78))
+>   - Update tooltips messages ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/78))
+>   - Add feature to change fonts ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/70))
+>   - Update experimental light theme ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/17))
+> - Bugfixes:
+>   - Fix UMG elements being white ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/80))
+>   - Flider space issues ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/76))
+>   - Fix stretched cross icon on some windows ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/75))
+
 **Version 2.2**
 > - Bugfixes:
 >   - Fix crash and missing downloaded files ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/73))
