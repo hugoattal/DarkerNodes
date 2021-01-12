@@ -26,6 +26,7 @@ UE 4.26 | DN 2.2 | ✅
 >   - Update tooltips messages ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/78))
 >   - Add feature to change fonts ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/70))
 >   - Update experimental light theme ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/17))
+>   - Add 9 OFL-licenced fonts to choose from
 > - Bugfixes:
 >   - Fix UMG elements being white ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/80))
 >   - Flider space issues ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/76))
