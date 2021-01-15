@@ -19,6 +19,17 @@ UE 4.26 | DN 2.3 | ✅
 
 ## Changelog
 
+**Version 2.4**
+> - Features:
+>   - Reduce toolbar elements margin ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/96))
+>   - Add grey change to placement browser ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/95))
+>   - Add a setting to allow overwrite of customizations ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/94))
+>   - Add a setting to disable panel and button theming ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/92))
+>   - Add grey change to sequencer toolbar ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/87))
+> - Bugfixes:
+>   - Fix nodes header missalignement in 4.24 ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/91))
+>   - Fix buggy theme materials ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/79))
+
 **Version 2.3**
 > - Features:
 >   - Add grey change to blueprint tableview ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/86))
