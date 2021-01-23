@@ -19,6 +19,20 @@ UE 4.26 | DN 2.4 | ✅
 
 ## Changelog
 
+**Version 2.5**
+> - Features:
+>   - Make toolbar button match spacer height ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/112))
+>   - Add a border to popup ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/110))
+>   - Add a setting for nodes to match grid ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/109))
+>   - Add a setting to make icons colored by group ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/108))
+>   - Add an experimental setting to change font size ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/106))
+>   - Make horizontal padding smaller ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/105))
+>   - Add a setting to change the scrollbar color ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/104))
+>   - Add a setting to change the origin axis opacity ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/103))
+>   - Add a setting to change the nodes header opacity and saturation ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/102))
+>   - Add a setting to change the color of the main and child windows ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/101))
+>   - Add a series of solid icon (small version not available yet) ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/6))
+
 **Version 2.4**
 > - Features:
 >   - Reduce toolbar elements margin ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/96))
