@@ -19,6 +19,21 @@ UE 4.26 | DN 2.5 | ✅
 
 ## Changelog
 
+**Version 2.6**
+> - Features:
+>   - Add grid color customization ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/130))
+>   - Add ability to disable grid lines on UMG Editor ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/129))
+>   - Add Blueprint nodes color customization ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/128))
+>   - Add globally shared configuration ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/125))
+>   - Add a setting to change the button border color ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/123))
+>   - Add an option to disable padding (for small buttons) ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/122))
+>   - Add Megascans icon ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/120))
+>   - Add a shortcut to restart the editor ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/120))
+> - Bugfixes:
+>   - Fix white UMG buttons ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/127))
+>   - Fix buggy project browser when plugin is enabled by default ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/124))
+>   - Fix white background on bulk edit ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/121))
+
 **Version 2.5**
 > - Features:
 >   - Make toolbar button match spacer height ([issue](https://github.com/TheHerobrine/DarkerNodes/issues/112))
