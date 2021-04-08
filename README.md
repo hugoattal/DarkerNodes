@@ -1,4 +1,4 @@
-![Logo Darker Nodes](https://user-images.githubusercontent.com/4563971/101672049-a502fe00-3a55-11eb-9ed8-ebdd0839ba86.png)
+![Logo Darker Nodes](https://user-images.githubusercontent.com/4563971/114016901-a8738e00-986b-11eb-8497-402504efce36.jpg)
 
 # Darker Nodes
 Modern theme for the Unreal editor
