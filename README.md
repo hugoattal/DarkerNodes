@@ -23,6 +23,12 @@ UE 5.00 | DN 3.0 | ✅
 
 ## Changelog
 
+**Version 3.1**
+> - Features:
+>   - Add Mac/Linux support for UE5 ([issue](https://github.com/hugoattal/DarkerNodes/issues/164))
+> - Bugfixes:
+>   - Fix behavior tree missalignement ([issue](https://github.com/hugoattal/DarkerNodes/issues/162))
+
 **Version 3.0**
 > - Features:
 >   - Add support for UE5 ([issue](https://github.com/hugoattal/DarkerNodes/issues/152))
