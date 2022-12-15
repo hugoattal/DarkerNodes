@@ -18,10 +18,17 @@ UE 4.25 | DN 2.6 | ❎*
 UE 4.26 | DN 2.6 | ✅
 UE 4.27 | DN 2.6 | ✅
 UE 5.00 | DN 3.2 | ✅
+UE 5.01 | DN 3.3 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.3**
+> - Features:
+>   - Add a setting to disable comment color update ([issue](https://github.com/hugoattal/DarkerNodes/issues/174))
+> - Bugfixes:
+>   - Fix color update introduced by 5.1 ([issue](https://github.com/hugoattal/DarkerNodes/issues/173))
 
 **Version 3.2**
 > - Bugfixes:
