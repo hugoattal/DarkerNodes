@@ -15,7 +15,7 @@ Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
 UE 4.24 | DN 2.6 | ❎*
 UE 4.25 | DN 2.6 | ❎*
-UE 4.26 | DN 2.6 | ✅
+UE 4.26 | DN 2.6 | ❎*
 UE 4.27 | DN 2.6 | ✅
 UE 5.00 | DN 3.2 | ✅
 UE 5.01 | DN 3.3 | ✅
