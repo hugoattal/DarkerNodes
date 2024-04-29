@@ -18,13 +18,18 @@ UE 4.25 | DN 2.6 | ❎*
 UE 4.26 | DN 2.6 | ❎*
 UE 4.27 | DN 2.6 | ❎*
 UE 5.00 | DN 3.2 | ❎*
-UE 5.01 | DN 3.3 | ✅
+UE 5.01 | DN 3.3 | ❎*
 UE 5.02 | DN 3.3 | ✅
 UE 5.03 | DN 3.4 | ✅
+UE 5.04 | DN 3.5 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.5**
+> - Features:
+>   - Fix 5.4 compilation ([issue](https://github.com/hugoattal/DarkerNodes/issues/187))
 
 **Version 3.4**
 > - Features:
