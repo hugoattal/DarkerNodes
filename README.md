@@ -19,13 +19,18 @@ UE 4.26 | DN 2.6 | ❎*
 UE 4.27 | DN 2.6 | ❎*
 UE 5.00 | DN 3.2 | ❎*
 UE 5.01 | DN 3.3 | ❎*
-UE 5.02 | DN 3.3 | ✅
+UE 5.02 | DN 3.3 | ❎*
 UE 5.03 | DN 3.4 | ✅
 UE 5.04 | DN 3.5 | ✅
+UE 5.05 | DN 3.6 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.6**
+> - Bugfixes:
+>   - Fix Popup launch on every start ([issue](https://github.com/hugoattal/ElectronicNodes/issues/194))
 
 **Version 3.5**
 > - Features:
