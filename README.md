@@ -21,13 +21,19 @@ UE 5.00 | DN 3.2 | ❎*
 UE 5.01 | DN 3.3 | ❎*
 UE 5.02 | DN 3.3 | ❎*
 UE 5.03 | DN 3.4 | ❎*
-UE 5.04 | DN 3.5 | ✅
-UE 5.05 | DN 3.6 | ✅
+UE 5.04 | DN 3.5 | ❎*
+UE 5.05 | DN 3.6 | ❎*
 UE 5.06 | DN 3.6 | ✅
+UE 5.07 | DN 3.6 | ✅
+UE 5.08 | DN 3.7 | ✅
 
 *(\* those versions will not receive updates, as Epic Game does not allow it for versions before the 3 last ones)*
 
 ## Changelog
+
+**Version 3.7**
+> - Features:
+>   - Add theme color toggle ([issue](https://github.com/hugoattal/ElectronicNodes/issues/183))
 
 **Version 3.6**
 > - Bugfixes:
